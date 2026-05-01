@@ -6,6 +6,9 @@
 A repository that hosts assets that my project needs.  
 
 ---
+## Usage
+``https://github.com/dplayz/asset-library/blob/main/<folder>/<logo>.png``
+
 ## License
 [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.en)
 

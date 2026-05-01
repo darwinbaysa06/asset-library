@@ -1,4 +1,4 @@
-<img src="" align="left"
+<img src="https://raw.githubusercontent.com/dplayz/asset-library/refs/heads/main/services/assetLibrary-boxed.png" align="left"
      alt="dplayz/codenamecore" width="125" height="125">
 ### dp Asset Library   
 A repository that hosts assets that my project needs.
